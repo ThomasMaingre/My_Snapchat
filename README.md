@@ -19,7 +19,7 @@ npm install
 Après avoir installé les dépendances, exécutez la commande suivante pour lancer l'application :
 
 ```php
-npm start
+npm run start
 ```
 
 ## Présentation du projet
