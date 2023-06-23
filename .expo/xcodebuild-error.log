@@ -1,0 +1,10 @@
+2023-06-13 12:26:18.066 xcodebuild[61616:1485083] DVTCoreDeviceEnabledState: DVTCoreDeviceEnabledState_Disabled set via user default (DVTEnableCoreDevice=disabled)
+--- xcodebuild: WARNING: Using the first of multiple matching destinations:
+{ platform:iOS Simulator, id:7A04F89E-16F9-4679-9F3C-CF392C1D7074, OS:16.4, name:iPhone 14 Pro Max }
+{ platform:iOS Simulator, id:7A04F89E-16F9-4679-9F3C-CF392C1D7074, OS:16.4, name:iPhone 14 Pro Max }
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Ld /Users/thomasmaingre/Library/Developer/Xcode/DerivedData/mysnapchat-hdyazfrrlpjjiwdzpxstuerdfokn/Build/Products/Debug-iphonesimulator/mysnapchat.app/mysnapchat normal (in target 'mysnapchat' from project 'mysnapchat')
+(1 failure)
